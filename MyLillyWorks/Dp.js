@@ -1,4 +1,4 @@
-let quickReplies = ["Yes", "No"];
+let quickReplies = ["Yes", "No","MayBe"];
 let card = {
     body: []
 };
